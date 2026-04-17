@@ -128,6 +128,7 @@ canopy start
 Then open:
 
 Web Wallet: http://localhost:50000
+
 Explorer: http://localhost:50001
 
 ---
