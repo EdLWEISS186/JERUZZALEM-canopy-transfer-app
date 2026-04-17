@@ -45,7 +45,15 @@ It demonstrates a working onchain transaction system where:
 
 ## 🎥 Demo Video
 
-👉 (PUT YOUR VIDEO LINK HERE)
+Nah, i'm good.
+I'm Web3 Builder not Cillian Murphy
+Here's some proof
+
+https://x.com/0XJERUZZALEM_/status/2045100818152693934 (thread)
+
+https://x.com/0XJERUZZALEM_/status/2045107184405782714 (thread)
+
+https://x.com/0XJERUZZALEM_/status/2045118301236547798
 
 ---
 
