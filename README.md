@@ -47,17 +47,19 @@ This project focuses on execution at the protocol layer rather than the smart co
    * Receiver balance increases
    * Fee pool increases
 
-           [Wallet]
-              ↓
-            [RPC]
-              ↓
-            [Node]
-              ↓
-          [Plugin]
-              ↓
-         [FSM / State]
-     
+### 🔄 Execution Flow
 
+```text
+[Wallet]
+   ↓
+[RPC]
+   ↓
+[Node]
+   ↓
+[Plugin]
+   ↓
+[FSM / State]
+```
 ---
 
 ## 🎥 Demo Video
