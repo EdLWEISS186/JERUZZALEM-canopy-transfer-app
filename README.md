@@ -45,15 +45,15 @@ It demonstrates a working onchain transaction system where:
    * Receiver balance increases
    * Fee pool increases
 
-         [Wallet]
-             ↓
-           [RPC]
-             ↓
-           [Node]
-             ↓
-         [Plugin]
-             ↓
-          [FSM / State]
+           [Wallet]
+              ↓
+            [RPC]
+              ↓
+            [Node]
+              ↓
+          [Plugin]
+              ↓
+         [FSM / State]
      
 
 ---
