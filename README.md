@@ -21,6 +21,8 @@ It demonstrates a working onchain transaction system where:
 * Fees are collected into a fee pool
 * Custom plugin logic is executed during transactions
 
+This project focuses on execution at the protocol layer rather than the smart contract layer.
+
 ---
 
 ## ⚙️ Features
@@ -60,7 +62,7 @@ It demonstrates a working onchain transaction system where:
 
 ## 🎥 Demo Video
 
-Live execution demo (local environment):
+Live execution demo (local environment, showing real transaction flow and state updates):
 
 https://x.com/0XJERUZZALEM_/status/2045100818152693934 (thread)
 
@@ -127,9 +129,8 @@ canopy start
 ```
 Then open:
 
-Web Wallet: http://localhost:50000
-
-Explorer: http://localhost:50001
+- Web Wallet: http://localhost:50000
+- Explorer: http://localhost:50001
 
 ---
 
