@@ -47,8 +47,9 @@ This project focuses on execution at the protocol layer rather than the smart co
    * Receiver balance increases
    * Fee pool increases
 
+---
+
 ### 🔄 Execution Flow
-```md
 
 ```text
 [Wallet]
@@ -122,6 +123,8 @@ Unlike typical smart contract-based systems, this app:
 - Decentralized payment system
 - Onchain treasury tracking
 - Automated fee distribution engine
+
+---
 
 ## ▶️ How to Run
 
