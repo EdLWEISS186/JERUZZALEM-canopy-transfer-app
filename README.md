@@ -1,5 +1,7 @@
 # 🚀 JERUZZALEM Canopy Transfer App
 
+Built with Canopy Go Plugin Template • Demonstrates protocol-level transaction execution
+
 ## 🧠 One-line Pitch
 
 A simple onchain transfer system built on Canopy that demonstrates real-time balance updates, fee handling, and custom plugin execution.
