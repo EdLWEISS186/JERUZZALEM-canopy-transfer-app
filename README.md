@@ -10,6 +10,8 @@ A simple onchain transfer system built on Canopy that demonstrates real-time bal
 
 ## 📌 Overview
 
+Canopy is a modular blockchain framework that allows custom transaction execution via plugins at the protocol level.
+
 This app is built using the Canopy Go Plugin Template.
 
 It demonstrates a working onchain transaction system where:
@@ -97,3 +99,15 @@ It can be extended into:
 - Decentralized payment system
 - Onchain treasury tracking
 - Automated fee distribution engine
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/EdLWEISS186/JERUZZALEM-canopy-transfer-app.git
+cd canopy
+canopy start
+
+Then open:
+
+Web Wallet: http://localhost:50000
+Explorer: http://localhost:50001
