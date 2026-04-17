@@ -72,7 +72,7 @@ StateWrite SUCCESS!
 
 ## 📂 Code Structure
 
-* plugin/go/contract/contract.go → main logic
+* plugin/go/contract/contract.go → core transaction execution logic (CheckTx & DeliverTx)
 
 ---
 
@@ -113,10 +113,12 @@ Unlike typical smart contract-based systems, this app:
 
 ```bash
 git clone https://github.com/EdLWEISS186/JERUZZALEM-canopy-transfer-app.git
-cd canopy
+cd JERUZZALEM-canopy-transfer-app
 canopy start
 
 Then open:
 
 Web Wallet: http://localhost:50000
 Explorer: http://localhost:50001
+
+This project serves as a minimal reference for building custom execution logic directly at the blockchain protocol layer using Canopy.
