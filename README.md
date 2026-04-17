@@ -4,7 +4,7 @@ Built with Canopy Go Plugin Template • Demonstrates protocol-level transaction
 
 ## 🧠 One-line Pitch
 
-A simple onchain transfer system built on Canopy that demonstrates real-time balance updates, fee handling, and custom plugin execution.
+A minimal reference implementation of protocol-level transaction execution using Canopy plugins, demonstrating deterministic state transitions and onchain fee accounting.
 
 ---
 
@@ -86,15 +86,22 @@ StateWrite SUCCESS!
 
 ## 💡 Why This Matters
 
-This app demonstrates how financial logic can be fully executed onchain, including:
-- Transparent fee accounting
-- Deterministic state updates
-- Verifiable transaction execution
+Most Web3 apps operate at the smart contract layer.
 
-It can be extended into:
-- DeFi systems
-- Payment rails
-- Onchain accounting tools
+This project demonstrates how financial logic can be executed directly at the protocol layer using Canopy plugins.
+
+This enables:
+- Lower-level control over transaction execution
+- Deterministic and verifiable state transitions
+- Custom fee mechanisms beyond standard smart contracts
+
+## 🧬 What Makes This Different
+
+Unlike typical smart contract-based systems, this app:
+
+- Executes logic at the protocol level (not EVM / contract layer)
+- Hooks directly into CheckTx and DeliverTx lifecycle
+- Controls state transitions via plugin-based execution
 
 ## 🔮 Future Use Cases
 
