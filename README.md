@@ -124,10 +124,12 @@ Unlike typical smart contract-based systems, this app:
 git clone https://github.com/EdLWEISS186/JERUZZALEM-canopy-transfer-app.git
 cd JERUZZALEM-canopy-transfer-app
 canopy start
-
+```
 Then open:
 
 Web Wallet: http://localhost:50000
 Explorer: http://localhost:50001
+
+---
 
 This project serves as a minimal reference for building custom execution logic directly at the blockchain protocol layer using Canopy.
