@@ -46,14 +46,15 @@ It demonstrates a working onchain transaction system where:
    * Fee pool increases
 
          [Wallet]
-            ↓
-          [RPC]
-            ↓
-          [Node]
-            ↓
+             ↓
+           [RPC]
+             ↓
+           [Node]
+             ↓
          [Plugin]
-            ↓
-       [FSM / State]
+             ↓
+          [FSM / State]
+     
 
 ---
 
