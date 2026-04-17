@@ -51,7 +51,7 @@ User → Wallet → RPC → Node → Plugin → FSM → State
 
 ## 🎥 Demo Video
 
-Here's some proofs
+Live execution demo (local environment):
 
 https://x.com/0XJERUZZALEM_/status/2045100818152693934 (thread)
 
