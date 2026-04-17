@@ -49,7 +49,7 @@ It demonstrates a working onchain transaction system where:
 
 ## 🎥 Demo Video
 
-Here's some proof
+Here's some proofs
 
 https://x.com/0XJERUZZALEM_/status/2045100818152693934 (thread)
 
